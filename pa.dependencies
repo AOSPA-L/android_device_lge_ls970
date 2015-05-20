@@ -1,0 +1,26 @@
+[
+ {
+   "remote":     "github",
+   "repository": "AOSPA-L/kernel_lge_ls970",
+   "target_path": "kernel/lge/ls970"
+   "revision":    "lollipop-mr1"
+ },
+ {
+   "remote":     "github",
+   "repository": "AOSPA-L/device_lge_ls970-common",
+   "target_path": "device/lge/ls970-common"
+   "revision":    "lollipop-mr1"
+ },
+ {
+   "remote":     "github",
+   "repository": "AOSPA-L/device_lge_gproj-common",
+   "target_path": "device/lge/gproj-common"
+   "revision":    "lollipop-mr1"
+  },
+  {
+    "remote": "github",
+    "repository": "Hybrid-Rom/vendor_lge",
+    "target_path": "vendor/lge",
+    "revision": "lollipop-mr1"
+  }
+]

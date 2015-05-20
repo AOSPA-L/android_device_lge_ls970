@@ -31,8 +31,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.debuggable=1 \
     persist.service.adb.enable=1
 
-
-
 # Telephony Properties
 PRODUCT_PROPERTY_OVERRIDES += \
         ro.cdma.home.operator.numeric=310120 \
